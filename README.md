@@ -1,5 +1,10 @@
-# Python program performing simple data analysis on a dataset of common cereal brands by Chris Crawford on Kaggle.
-
+# Python program performing simple data analysis on a dataset of common cereal brands by Chris Crawford on Kaggle.  
+## Results:  
+## Cereal brands with the highest sugars per 1 ounce serving: Golden Crisp and Smacks  
+## Cereal brands with the highest ratings: All-Bran with Extra Fiber  
+## Cereal manufacturers with the highest average sugars per 1 ounce servings: Post  
+## Cereal manufacturer with the highest average ratings: Nabisco  
+  
 Name: Name of cereal  
 mfr: Manufacturer of cereal  
 A = American Home Food Products  
