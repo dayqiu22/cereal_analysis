@@ -1,9 +1,9 @@
 # Python program performing simple data analysis on a dataset of common cereal brands by Chris Crawford on Kaggle.
 
-Name: Name of cereal
-mfr: Manufacturer of cereal
-A = American Home Food Products;
-G = General Mills
+Name: Name of cereal/n
+mfr: Manufacturer of cereal/n
+A = American Home Food Products/n
+G = General Mills/n
 K = Kelloggs
 N = Nabisco
 P = Post
