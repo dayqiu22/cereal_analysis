@@ -9,9 +9,8 @@ N = Nabisco
 P = Post  
 Q = Quaker Oats  
 R = Ralston Purina  
-type:  
-cold  
-hot  
+  
+type: hot or cold  
 calories: calories per serving  
 protein: grams of protein  
 fat: grams of fat  
